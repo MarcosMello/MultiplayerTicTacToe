@@ -1,0 +1,23 @@
+https://stackoverflow.com/questions/22835289/how-to-get-tkinter-canvas-to-dynamically-resize-to-window-width --> Auto-Tamanho
+https://www.youtube.com/watch?v=_whymdfq-R4 --> Server
+https://www.youtube.com/watch?v=yQSEXcf6s2I&list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV --> Tkinter Curso
+https://cadernodelaboratorio.com.br/tkinter-conhecendo-o-grid-em-maiores-detalhes/ --> Grid
+https://www.youtube.com/watch?v=oAQDd_YTiGA || https://github.com/ritik48/Chat-App --> Chat GUI
+https://www.youtube.com/watch?v=jnrCpA1xJPQ --> Threading
+https://www.tutorialspoint.com/python/tk_pack.htm --> Pack
+https://stackoverflow.com/questions/39580739/python-tkinter-label-in-frame --> Labels in Frames
+https://www.tutorialspoint.com/python/tk_label.htm --> Labels
+https://stackoverflow.com/questions/111155/how-do-i-handle-the-window-close-event-in-tkinter --> Closing Window
+https://www.pythontutorial.net/tkinter/tkinter-stringvar/ --> StringVar
+https://flexiple.com/check-if-list-is-empty-python/ --> Empty List
+https://stackoverflow.com/questions/3434581/accessing-a-class-member-variables-in-python --> Use a Variable from a Class;
+https://www.youtube.com/watch?v=TsaLQAetPLU --> Github Readme.md
+https://www.delftstack.com/pt/howto/python-tkinter/how-to-set-window-icon-in-tkinter/ --> Icon
+https://www.tutorialspoint.com/how-do-i-get-rid-of-the-python-tkinter-root-window --> Get Rid of Tkinter Window
+https://www.youtube.com/watch?v=sc0t7bVxOoI --> Login Screen
+https://www.pythontutorial.net/tkinter/tkinter-separator/ --> Separator
+https://www.tutorialspoint.com/python/tk_frame.htm --> Frames
+https://www.tutorialspoint.com/how-to-get-the-tkinter-widget-s-current-x-and-y-coordinates --> Position
+https://www.tutorialspoint.com/python/tk_button.htm --> Button
+https://thispointer.com/python-how-to-use-if-else-elif-in-lambda-functions/ --> Lambda
+https://stackoverflow.com/questions/27469310/how-to-update-a-label-in-tkinter-stringvar-not-working --> Update TextVar
