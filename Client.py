@@ -306,6 +306,8 @@ def finishGame():
 
     if resp:
         gameScrn.gameWin.destroy();
+        if chatOpen:
+            chatWinOBJ.chatWin.destroy();
         #disconnect(True); #continue? True -> try disconnect on thread and continue instantaneously
         root.deiconify();
     elif not resp and resp != None:
